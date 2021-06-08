@@ -17,7 +17,6 @@ until num[0]<num[1] && num[1]<num[2] && num[2]<num[3]
 end
 p num
 
-
 #time upto downto step while until concat(連結) values_at(取得したい要素抜き出し) push(要素追加)
 #join(とで連結など)　chars(１文字ずつに分ける) each(繰り返し)index(添字)　while,untill
 #for loop 
